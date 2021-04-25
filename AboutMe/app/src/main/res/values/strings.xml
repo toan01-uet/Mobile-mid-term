@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="textview">TextView</string>
+    <string name="name">Vuong Thanh Toan</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Toan.
+        \n\nI love dog
+        \n\n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad architecto autem doloremque eos facilis, inventore natus necessitatibus nisi officiis possimus, praesentium quisquam repellat tenetur. Ad ea praesentium saepe vitae. Quod.
+    </string>
+    <string name="what_is_your_nickname">What is your nick name</string>
+    <string name="done">Done</string>
+</resources>
